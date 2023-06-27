@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje eu trabalho com Engenharia de Segurança do Trabalho e Meio Ambiente
-- 🌱 Estudando HTML, CSS, JavaScript e React
+- 🌱 Estudando 
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: já explodi uma panela de pressão
 
